@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jing Li
+- 👀 I’m interested in CS area
+- 🌱 I’m currently learning Python and C
+- 📫 How to reach me:
+- E-Mail: jli566@ucsc.edu
+- Phone: (650) 996-6178
+- LinkedIn: linkedin.com/in/jing-li-73b056229
